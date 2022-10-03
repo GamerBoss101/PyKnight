@@ -1,9 +1,13 @@
 import helper
+import story
 
 gameState = 0
 
 
 def main():
-    helper.listMoves()
+    x = 1
+    player_name = input("What is your name: ")
 
-main();
+    print("End of Story!")
+    
+main()

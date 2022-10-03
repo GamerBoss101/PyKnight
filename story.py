@@ -1,0 +1,3 @@
+
+def welcomeKnight():
+    print("")
